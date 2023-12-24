@@ -1,0 +1,28 @@
+{
+  "auth": {
+    "jwttoken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJtb25leEBiYW5rb3lvLmNvbSIsInVzZXJfaWQiOjEsImV4cCI6MTY5NjQwNDg4NiwiaXNfdGZhX2VuYWJsZWQiOm51bGwsImlhdCI6MTY5NjQwMTI4NiwidGZhRGVmYXVsdFR5cGUiOm51bGwsImNsaWVudF9jb2RlIjoiTU4ifQ.SjQUVU-UbUJIqeKFjkBAxl1P8ZvIT12VCYkLe4-JxEZn_XJw0yM4dCYZNvXF6aajiUhyQcZ_tZdLowgeVLuzKA",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJtb25leEBiYW5rb3lvLmNvbSIsInVzZXJfaWQiOjEsInJlZnJlc2giOnRydWUsImV4cCI6MTY5NzAwNjA4NiwiaXNfdGZhX2VuYWJsZWQiOm51bGwsImlhdCI6MTY5NjQwMTI4NiwidGZhRGVmYXVsdFR5cGUiOm51bGwsImNsaWVudF9jb2RlIjoiTU4ifQ.nX-9yX8WYC1-d-3rAc4mdbs_poeI7NYThYZUZ2EY9zkSqM3InK0sw_W-2iQXWgQp_D5NuHxyqZZCpd9BmCaCFQ"
+  },
+
+  "user_data": {
+    "status": true,
+    "errorCode": 0,
+    "errorDescription": null,
+    "responseDto": {
+      "agentSenderDetailsId": 1,
+      "customerFirstName": "Mohammed",
+      "customerLastName": "Suja",
+      "telephoneNo": "7864261999",
+      "residentialAddress": "Waddon Park Avenue ",
+      "dateOfBirth": "1987-07-16",
+      "fullName": "Mohammed Suja",
+      "title": "MR",
+      "email": "mohammed@codelantic.com",
+      "agentDetailsId": 1,
+      "agentName": "qa_Spoton Money",
+      "agentRegNumber": "MXAG01",
+      "agentExposableId": "JVb3mfaNS29",
+      "userId": 357
+    }
+  }
+}
